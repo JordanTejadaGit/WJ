@@ -1,0 +1,20 @@
+{
+  "name": "security-pop-up",
+  "version": "0.1.0",
+  "licence": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "mirotone": "3"
+  },
+  "devDependencies": {
+    "@mirohq/websdk-types": "latest",
+    "@vitejs/plugin-react-refresh": "1.3.6",
+    "vite": "3.0.3"
+  }
+}
